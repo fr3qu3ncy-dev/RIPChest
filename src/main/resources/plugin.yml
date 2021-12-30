@@ -1,0 +1,6 @@
+name: RIPChest
+main: de.fr3qu3ncy.ripchest.RIPChest
+version: 1.0
+api-version: 1.17
+description: Spawns a chest when you die!
+author: fr3qu3ncy

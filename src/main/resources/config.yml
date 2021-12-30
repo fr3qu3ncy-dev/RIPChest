@@ -1,0 +1,6 @@
+#Time In Minutes
+chest_despawn_time: 10
+chest_broadcast_time: 5
+
+#Defines how often the chests should be checked (in seconds)
+chest_check_interval: 30

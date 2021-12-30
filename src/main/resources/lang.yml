@@ -1,0 +1,2 @@
+chest_owner_message: '&cYour death location is here: %deathLocation'
+chest_broadcast_message: '&cThe RIPChest of %player is here: %deathLocation'
