@@ -47,6 +47,11 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
+            <groupId>de.fr3qu3ncy</groupId>
+            <artifactId>bukkittools</artifactId>
+            <version>LATEST</version>
+        </dependency>
+        <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.22</version>
